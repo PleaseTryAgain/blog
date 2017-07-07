@@ -9,4 +9,4 @@ https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgs
 3.启动数据库，编写代码<br/>
 4.使用postman进行接口测试<br/>
 
-对应issues【nodejs+mongo初试水】
+对应Wiki【nodejs+mongo初试水】
