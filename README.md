@@ -15,8 +15,8 @@ https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgs
 
 用vue也有多半年的时间了，对vue的了解也是越来越深入。但是现在返回去看官方文档比当初理解的又通透了不少，所以想写下来这三篇wiki，以加深自己的理解。
 分别对应wiki里面的标题
-## 1.VUE组件之间通信
+##### 1.VUE组件之间通信
 
-## 2.VUE生命周期
+##### 2.VUE生命周期
 
-## 3.VUE渲染函数
+##### 3.VUE渲染函数
