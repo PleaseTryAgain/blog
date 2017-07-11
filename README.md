@@ -10,3 +10,6 @@ https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgs
 4.使用postman进行接口测试<br/>
 
 对应Wiki【nodejs+mongo初试水】
+
+
+## VUE组件之间通信
